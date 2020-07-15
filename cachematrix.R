@@ -1,8 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-# These functions allow us to save time in our computations, in this #case of matrices and finding their inverse. By using these #functions, we can quickly revisit the matrix without having to #recalculate it. The code will simply retrieve the prior calcuation #when it is called.
+# These functions allow us to save time in our computations, in this case of matrices and finding their inverse. By using these functions, we can quickly revisit the matrix without having to #recalculate it. The code will simply retrieve the prior calcuation #when it is called.
 ## Write a short comment describing this function
-#This function establishes the value of both the matrix and the #inverse
+#This function establishes the value of both the matrix and the inverse
 makeCacheMatrix <- function(x = matrix()) {
 
 }
